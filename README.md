@@ -24,3 +24,4 @@
   - Augmented generation: Answer the question
 - Embeddings and similarity scores
   - Calculate similarity scores
+- Classifying embeddings with Keras and the Gemini API
