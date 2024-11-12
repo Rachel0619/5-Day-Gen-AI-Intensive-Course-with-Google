@@ -15,3 +15,9 @@
   - Generating code
   - Code execution
   - Explaining code
+ 
+## Day 2 Document Q&A with RAG
+
+- Creating the embedding database with ChromaDB
+- Retrieval: Find relevant documents
+- Augmented generation: Answer the question
