@@ -2,7 +2,7 @@
 
 ## Day 1 Prompting
 
-- generation parameters
+- Generation parameters
   - Output length
   - Temperature
   - Top-K and top-P
