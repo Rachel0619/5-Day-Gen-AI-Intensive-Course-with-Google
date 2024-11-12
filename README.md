@@ -16,8 +16,11 @@
   - Code execution
   - Explaining code
  
-## Day 2 Document Q&A with RAG
+## Day 2 Embeddings and Vector Stores/Databases
 
-- Creating the embedding database with ChromaDB
-- Retrieval: Find relevant documents
-- Augmented generation: Answer the question
+- Document Q&A with RAG
+  - Creating the embedding database with ChromaDB
+  - Retrieval: Find relevant documents
+  - Augmented generation: Answer the question
+- Embeddings and similarity scores
+  - 
