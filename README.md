@@ -23,4 +23,4 @@
   - Retrieval: Find relevant documents
   - Augmented generation: Answer the question
 - Embeddings and similarity scores
-  - 
+  - Calculate similarity scores
